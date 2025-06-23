@@ -1,0 +1,17 @@
+{
+    "email": "ahmeddewan1995@gmail.com",
+    "phone": "(+86) 15655191381",
+    "address": "Amhui Agriculture University, Hefei City, Anhui Province, China",
+    "icons": {
+      "email": "https://cdn3.iconfinder.com/data/icons/font-awesome-solid/512/envelope-1024.png",
+      "phone": "https://cdn0.iconfinder.com/data/icons/essentials-solid-glyphs-vol-1/100/Phone-Call-Telephone-1024.png",
+      "address": "https://cdn1.iconfinder.com/data/icons/neutro-essential/32/home-1024.png"
+    },
+    "social": [
+      { "name": "Youtube", "url": "https://www.youtube.com/@Ahmed_Dewan", "icon": "https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Youtube-1024.png" },
+      { "name": "LinkedIn", "url": "https://www.linkedin.com/in/ahmed-dewan-m-sc-b9960b141/", "icon": "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-1024.png" },
+      { "name": "Instagram", "url": "https://www.instagram.com/ahmed.dewan.374/", "icon": "https://cdn4.iconfinder.com/data/icons/logos-brands-7/512/instagram_icon-instagram_buttoninstegram-1024.png" },
+      { "name": "Facebook", "url": "https://www.facebook.com/ahmed.dewan.374", "icon": "https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Facebook_colored_svg_copy-1024.png" }
+    ]
+  }
+  

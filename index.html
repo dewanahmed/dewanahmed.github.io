@@ -1,0 +1,125 @@
+
+<!-- /* ------------------------------- *\ -->
+<!-- /*     AUTHOR: A.M.M. Elsayed      *\ -->
+<!-- /*    * ALL RIGHTS RESERVED *      *\ -->
+<!-- /* ------------------------------- *\ -->
+ 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+    <title>Ahmed Dewan</title>
+
+    <!--Browser Tap icon-->
+    <link rel="icon" href="images/tap-icon.png">
+    
+    <!--Body and Body-Main styles-->
+    <link rel="stylesheet" href="home.css">
+    <link rel="stylesheet" href="./publications/style.css">
+
+    <!--Header and footer stylings-->
+    <link rel="stylesheet" href="styles/header.css">
+    <link rel="stylesheet" href="styles/footer.css">
+
+</head>
+
+<body>
+
+    <my-header></my-header>
+    <script type="module" src="styles/header.js"></script>
+    <script src="menu.js"></script>
+
+<main>
+
+
+<div id="greetings">
+<div id="greetings-image">
+<img src="./images/ahmeddewan photo.png">
+<p style="font-size: 40px; font-weight: 400; text-align: center; padding-bottom: 0px; white-space: nowrap;"><strong>Ahmed Dewan, M.Sc.<strong></strong></p>
+<a style="font-size: 18px; text-align: center; white-space: nowrap;" href="ahmeddewan1995@gmail.com">Email: ahmeddewan1995@gmail.com</a>
+<p style="font-size: 18px; text-align: center; white-space: nowrap;">Research assistant</p>
+<p style="font-size: 18px; text-align: center; white-space: nowrap;">Anhui Agriculture University, China</p>
+<!-- <a style="font-size: 20px; justify-content: center;" href="ahmedphysica@outlook.com">ahmedphysica@outlook.com</p> -->
+</div>
+
+<!-- <div id="greetings-text">
+Hi, I'm Ahmed,<br>
+Welcome to my personal website!
+</div> -->
+
+</div>
+
+
+<!-- <div class="recents">
+<section>
+<h2>
+Recent Events
+</h2>
+</section>
+<div id="publications-list">
+</div>
+</div> -->
+
+
+
+
+</main>
+    
+<my-footer></my-footer>
+<script type="module" src="styles/footer.js"></script>
+<script src="user/upload_social_links.js"></script>
+
+<script>
+  document.addEventListener('DOMContentLoaded', () => {
+    fetchLatestPublication();
+  });
+
+  async function fetchLatestPublication() {
+    try {
+      const res = await fetch('publications/publications.json');
+      if (!res.ok) throw new Error(`HTTP ${res.status}`);
+      const data = await res.json();
+
+      if (!data.length) {
+        console.warn('No publications found');
+        return;
+      }
+
+      // 1) Sort by date descending (newest first)
+      data.sort((a, b) => new Date(b.date) - new Date(a.date));
+
+      // 2) Grab the very first (most recent)
+      const latest = data[0];
+
+      // 3) Build a small HTML snippet
+      const html = `
+        <div class="publication">
+          <div class="content">
+            <p style="color: navy;"><em><b>${latest.paper_type}</b></em></p>
+            <h2>${latest.title}</h2>
+            <p><em>${latest.date}, ${latest.journal}</em></p>
+            <p><b>Abstract:</b> ${latest.description}</p>
+            <p><b>DOI:</b>
+              <a href="${latest.link}" target="_blank">${latest.link}</a>
+            </p>
+          </div>
+          <img src="${latest.image_soruce}" class="publication-image">
+        </div>
+      `;
+
+      // 4) Inject into your container
+      const container = document.getElementById('publications-list');
+      container.innerHTML = html;
+
+    } catch (err) {
+      console.error('Error fetching latest publication:', err);
+    }
+  }
+</script>
+    
+</body>
+</html>
