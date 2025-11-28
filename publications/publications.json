@@ -1,4 +1,22 @@
-[
+[   
+    {
+        "paper_type":"Article",
+        "title": "The Impact of Fusobacterium nucleatum and the Genotypic Biomarker KRAS on Colorectal Cancer Pathogenesis",
+        "date": "July 2025",
+        "journal": "International Journal of Molecular Sciences",
+        "description": "Fusobacterium nucleatum and activating mutations in the Kirsten rat sarcoma virus oncogene homolog (KRAS) are increasingly recognized as cooperative drivers of colorectal cancer (CRC). F. nucleatum promotes tumorigenesis via adhesion to epithelial cells, modulation of the immune microenvironment, and delivery of virulence factors, while KRAS mutations—present in 60% of CRC cases—amplify proliferative signaling and inflammatory pathways. Here, we review the molecular interplay by which F. nucleatum enhances KRAS-driven oncogenic cascades and, conversely, how KRAS mutations reshape the tumor niche to favor bacterial colonization. We further discuss the use of KRAS as a prognostic biomarker and explore promising non-antibiotic interventions—such as phage therapy, antimicrobial peptides, and targeted small-molecule inhibitors—aimed at selectively disrupting F. nucleatum colonization and virulence. This integrated perspective on microbial–genetic crosstalk offers novel insights for precision prevention and therapy in CRC.",
+        "link": "https://doi.org/10.3390/ijms26146958",
+        "image_soruce":"publications/images/ijms-26-06958-g001.png"
+    },    
+    {
+        "paper_type":"Article",
+        "title": "Synthesis of Antimicrobial Quinoline Derivatives Enabled by Synergistic Pd/Enamine Catalysis: Experimental and Computational Study",
+        "date": "October 2025",
+        "journal": "Precision Chemistry",
+        "description": "An intermolecular addition of acetophenone derivatives to unactivated alkenes was developed through Pd(II)/amine cooperative catalysis. This dual catalytic system functions by activating the amide-containing alkene via Pd(II) coordination while simultaneously enhancing the nucleophilicity of the α-carbon of acetophenones through enamine catalysis, thereby facilitating the C–C bond-forming reaction. Five quinoline-based amide derivatives were designed and synthesized to explore their potential as biologically active agents. The synthesized compounds were structurally characterized using the standard NMR technique and subsequently evaluated for their antimicrobial activity against a panel of pathogenic bacterial and fungal strains. The five derivatives exhibited significant inhibitory effects, with minimum inhibitory concentrations (MICs) comparable to or better than those of reference drugs. To gain insight into the molecular basis of their biological activity, molecular docking studies were performed against relevant microbial target enzymes, revealing favorable binding interactions and high docking scores. Furthermore, molecular dynamics (MD) simulations were carried out to assess the stability and conformational behavior of the most active ligand–protein complexes over time, supporting their potential as stable bioactive candidates. In addition, ADMET in silico predictions indicated good drug-likeness, acceptable pharmacokinetic profiles, and low toxicity risk, reinforcing their potential as promising scaffolds for antimicrobial drug development.",
+        "link": "https://doi.org/10.1021/prechem.5c00085",
+        "image_soruce":"publications/images/images_large_pc5c00085_0007.jpeg"
+    },
     {
         "paper_type":"Article",
         "title": "Rational Design of New Thienopyridine Heterocycles Tethering Thiophene Moiety as Antimicrobial Agents: Synthesis and Computational Biology Study",
