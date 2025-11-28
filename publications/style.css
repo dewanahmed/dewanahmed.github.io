@@ -201,9 +201,4 @@ body main {
     font-weight: bold;
 }
 
-/* Hide broken/empty publication images */
-#publications-list .publication img[src=""],
-#publications-list .publication img:not([src]) {
-    display: none;
-}
 
