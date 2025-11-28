@@ -1,6 +1,6 @@
 [   
     {
-        "paper_type":"Article",
+        "paper_type":"Review Article",
         "title": "The Impact of Fusobacterium nucleatum and the Genotypic Biomarker KRAS on Colorectal Cancer Pathogenesis",
         "date": "July 2025",
         "journal": "International Journal of Molecular Sciences",
@@ -35,4 +35,5 @@
         "link": "https://doi.org/10.1016/j.molstruc.2024.140741",
         "image_soruce":"https://ars.els-cdn.com/content/image/1-s2.0-S0022286024032496-gr4_lrg.jpg"
     }
+
 ]
