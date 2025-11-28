@@ -1,57 +1,60 @@
 [
-    {
-        "paper_type": "Article",
-        "title": "Synthesis of Antimicrobial Quinoline Derivatives Enabled by Synergistic Pd/Enamine Catalysis: Experimental and Computational Study",
-        "date": "October 2025",
-        "journal": "Precision Chemistry",
-        "description": "An intermolecular addition of acetophenone derivatives to unactivated alkenes was developed through Pd(II)/amine cooperative catalysis. This dual catalytic system functions by activating the amide-containing alkene via Pd(II) coordination while simultaneously enhancing the nucleophilicity of the α-carbon of acetophenones through enamine catalysis, thereby facilitating the C–C bond-forming reaction. Five quinoline-based amide derivatives were designed and synthesized to explore their potential as biologically active agents. The synthesized compounds were structurally characterized using the standard NMR technique and subsequently evaluated for their antimicrobial activity against a panel of pathogenic bacterial and fungal strains. The five derivatives exhibited significant inhibitory effects, with minimum inhibitory concentrations (MICs) comparable to or better than those of reference drugs. To gain insight into the molecular basis of their biological activity, molecular docking studies were performed against relevant microbial target enzymes, revealing favorable binding interactions and high docking scores. Furthermore, molecular dynamics (MD) simulations were carried out to assess the stability and conformational behavior of the most active ligand–protein complexes over time, supporting their potential as stable bioactive candidates. In addition, ADMET in silico predictions indicated good drug-likeness, acceptable pharmacokinetic profiles, and low toxicity risk, reinforcing their potential as promising scaffolds for antimicrobial drug development.",
-        "link": "https://doi.org/10.1021/prechem.5c00085"
-    },
-    {
-        "paper_type": "Review Article",
-        "title": "The Impact of Fusobacterium nucleatum and the Genotypic Biomarker KRAS on Colorectal Cancer Pathogenesis",
-        "date": "July 2025",
-        "journal": "International Journal of Molecular Sciences",
-        "description": "Fusobacterium nucleatum and activating mutations in the Kirsten rat sarcoma virus oncogene homolog (KRAS) are increasingly recognized as cooperative drivers of colorectal cancer (CRC). F. nucleatum promotes tumorigenesis via adhesion to epithelial cells, modulation of the immune microenvironment, and delivery of virulence factors, while KRAS mutations—present in 60% of CRC cases—amplify proliferative signaling and inflammatory pathways. Here, we review the molecular interplay by which F. nucleatum enhances KRAS-driven oncogenic cascades and, conversely, how KRAS mutations reshape the tumor niche to favor bacterial colonization. We further discuss the use of KRAS as a prognostic biomarker and explore promising non-antibiotic interventions—such as phage therapy, antimicrobial peptides, and targeted small-molecule inhibitors—aimed at selectively disrupting F. nucleatum colonization and virulence. This integrated perspective on microbial–genetic crosstalk offers novel insights for precision prevention and therapy in CRC.",
-        "link": "https://doi.org/10.3390/ijms26146958"
-    },
-    {
-        "paper_type": "Article",
-        "title": "Rational Design of New Thienopyridine Heterocycles Tethering Thiophene Moiety as Antimicrobial Agents: Synthesis and Computational Biology Study",
-        "date": "May 2025",
-        "journal": "Journal of Molecular Structure",
-        "description": "In this study, we report the rational design, synthesis, and computational evaluation of novel thienopyridine-based heterocycles incorporating a thiophene moiety as potential antimicrobial agents. Five thienopyridine derivatives were successfully synthesized and thoroughly characterized using spectroscopic techniques, including nuclear magnetic resonance (NMR) and high-resolution mass spectrometry (HRMS). The in vitro antimicrobial activities of the synthesized compounds were evaluated against a panel of Gram-positive and Gram-negative bacterial strains, as well as fungal pathogens. Most compounds exhibited moderate to strong inhibitory effects, with compounds 10 and 11 showing the highest antibacterial activity, while derivatives 8 and 11 demonstrated the most potent antifungal effects. The introduction of bulky aromatic substituents, such as biphenyl and naphthalene, enhanced both antibacterial and antifungal properties, likely due to increased aromaticity and stronger π–π interactions with microbial targets. Additionally, the presence of a cyano (CN) group notably improved antifungal activity. Molecular dynamics simulations indicated that compound 8 formed stable interactions with key residues at the binding site, maintaining complex stability throughout the simulation period. Predictions of drug-likeness and ADMET (absorption, distribution, metabolism, excretion, and toxicity) properties revealed a favorable pharmacological profile, supporting its potential as a promising lead compound for the development of potent and low-toxicity antimicrobial agents.",
-        "link": "https://doi.org/10.1016/j.molstruc.2025.142716"
-    },
-    {
-        "paper_type": "Article",
-        "title": "New Class of Thienopyridines: Design, Synthesis, Antimicrobial Activity and Molecular Docking",
-        "date": "November 2024",
-        "journal": "Journal of Molecular Structure",
-        "description": "Thienopyridines one of the most important classes in organic chemistry due to their outstanding medicinal and environmental applications. In this study, we report the synthesis of a series of novel thienopyridine derivatives bearing different aryl substituents on the fused thiophene moiety to showcase their inhibition behavior on different strains of bacteria and Fungai which can further be evidenced by molecular docking. The 4,6-dimethyl-2-thioxo-1,2-dihydropyridine-3-carbonitrile (3) was used as a starting material for the synthesis of the target compounds (4-15). The condensation of compound 3 with thiophene-2-carbaldehyde led to formation of thienylpyridine product 4, which subsequently reacted with ethyl chloroacetate or chloroacetaldehyde to furnish the thienopyridine derivatives (6,7). Moreover, the alkylation of compound 3 with various bromoalkyl ketones followed by Thorpe-Zeigler cyclization furnished the corresponding product (8-15). The structures of all synthesized compounds were confirmed using standard NMR spectroscopic technique which showed excellent agreement with the claimed structures. To assess their potential as therapeutic agents, we performed in vitro biological assays to evaluate their activity against selected bacterial strains and different fungal strains. Several of the studied derivatives exhibited significant antimicrobial activity, with compounds 9 and 13 emerging as the most potent which demonstrate the effect of halogen atoms F and Cl on the antimicrobial activity. To gain insight into the molecular interactions underlying the observed bioactivity, molecular docking studies were conducted against key biological targets. The docking results revealed favorable binding interactions, supporting the experimental findings, and suggesting a possible mechanism of action. These findings suggest that the new thienopyridine derivatives could serve as promising leads for the development of novel antimicrobial agents.",
-        "link": "https://doi.org/10.1016/j.molstruc.2024.140741"
-    },
-    {
-        "paper_type": "Review Article",
-        "title": "Dietary Modulation of the Human Gut Microbiota: Molecular Mechanisms and Implications for Health and Disease",
-        "date": "In progress"
-    },
-    {
-        "paper_type": "Review Article",
-        "title": "Therapeutic agents against Aquaculture diseases",
-        "date": "In progress"
-    },
-    {
-        "paper_type": "Review Article",
-        "title": "Targeting Pathogenic bacteria in Gut microbiota Dysbiosis: Bacteriophage Therapy",
-        "date": "In progress"
-    },
-    {
-        "paper_type": "Review Article",
-        "title": "Updates in antimicrobial resistance (AMR): Molecular detection and therapeutic strategies",
-        "date": "In progress"
-    }
+  {
+    "paper_type": "Article",
+    "title": "Synthesis of Antimicrobial Quinoline Derivatives Enabled by Synergistic Pd/Enamine Catalysis: Experimental and Computational Study",
+    "date": "October 2025",
+    "journal": "Precision Chemistry",
+    "description": "An intermolecular addition of acetophenone derivatives to unactivated alkenes was developed through Pd(II)/amine cooperative catalysis. This dual catalytic system functions by activating the amide-containing alkene via Pd(II) coordination while simultaneously enhancing the nucleophilicity of the α-carbon of acetophenones through enamine catalysis, thereby facilitating the C–C bond-forming reaction. Five quinoline-based amide derivatives were designed and synthesized to explore their potential as biologically active agents. The synthesized compounds were structurally characterized using the standard NMR technique and subsequently evaluated for their antimicrobial activity against a panel of pathogenic bacterial and fungal strains. The five derivatives exhibited significant inhibitory effects, with minimum inhibitory concentrations (MICs) comparable to or better than those of reference drugs. To gain insight into the molecular basis of their biological activity, molecular docking studies were performed against relevant microbial target enzymes, revealing favorable binding interactions and high docking scores. Furthermore, molecular dynamics (MD) simulations were carried out to assess the stability and conformational behavior of the most active ligand–protein complexes over time, supporting their potential as stable bioactive candidates. In addition, ADMET in silico predictions indicated good drug-likeness, acceptable pharmacokinetic profiles, and low toxicity risk, reinforcing their potential as promising scaffolds for antimicrobial drug development.",
+    "link": "https://doi.org/10.1021/prechem.5c00085",
+    "image_source": "publications/images/images_large_pc5c00085_0007.jpeg"
+  },
+  {
+    "paper_type": "Review Article",
+    "title": "The Impact of Fusobacterium nucleatum and the Genotypic Biomarker KRAS on Colorectal Cancer Pathogenesis",
+    "date": "July 2025",
+    "journal": "International Journal of Molecular Sciences",
+    "description": "Fusobacterium nucleatum and activating mutations in the Kirsten rat sarcoma virus oncogene homolog (KRAS) are increasingly recognized as cooperative drivers of colorectal cancer (CRC). F. nucleatum promotes tumorigenesis via adhesion to epithelial cells, modulation of the immune microenvironment, and delivery of virulence factors, while KRAS mutations—present in 60% of CRC cases—amplify proliferative signaling and inflammatory pathways. Here, we review the molecular interplay by which F. nucleatum enhances KRAS-driven oncogenic cascades and, conversely, how KRAS mutations reshape the tumor niche to favor bacterial colonization. We further discuss the use of KRAS as a prognostic biomarker and explore promising non-antibiotic interventions—such as phage therapy, antimicrobial peptides, and targeted small-molecule inhibitors—aimed at selectively disrupting F. nucleatum colonization and virulence. This integrated perspective on microbial–genetic crosstalk offers novel insights for precision prevention and therapy in CRC.",
+    "link": "https://doi.org/10.3390/ijms26146958",
+    "image_source": "publications/images/ijms-26-06958-g001.png"
+  },
+  {
+    "paper_type": "Article",
+    "title": "Rational Design of New Thienopyridine Heterocycles Tethering Thiophene Moiety as Antimicrobial Agents: Synthesis and Computational Biology Study",
+    "date": "May 2025",
+    "journal": "Journal of Molecular Structure",
+    "description": "In this study, we report the rational design, synthesis, and computational evaluation of novel thienopyridine-based heterocycles incorporating a thiophene moiety as potential antimicrobial agents. Five thienopyridine derivatives were successfully synthesized and thoroughly characterized using spectroscopic techniques, including nuclear magnetic resonance (NMR) and high-resolution mass spectrometry (HRMS). The in vitro antimicrobial activities of the synthesized compounds were evaluated against a panel of Gram-positive and Gram-negative bacterial strains, as well as fungal pathogens. Most compounds exhibited moderate to strong inhibitory effects, with compounds 10 and 11 showing the highest antibacterial activity, while derivatives 8 and 11 demonstrated the most potent antifungal effects. The introduction of bulky aromatic substituents, such as biphenyl and naphthalene, enhanced both antibacterial and antifungal properties, likely due to increased aromaticity and stronger π–π interactions with microbial targets. Additionally, the presence of a cyano (CN) group notably improved antifungal activity. Molecular dynamics simulations indicated that compound 8 formed stable interactions with key residues at the binding site, maintaining complex stability throughout the simulation period. Predictions of drug-likeness and ADMET (absorption, distribution, metabolism, excretion, and toxicity) properties revealed a favorable pharmacological profile, supporting its potential as a promising lead compound for the development of potent and low-toxicity antimicrobial agents.",
+    "link": "https://doi.org/10.1016/j.molstruc.2025.142716",
+    "image_source": "https://ars.els-cdn.com/content/image/1-s2.0-S0022286025013924-gr6_lrg.jpg"
+  },
+  {
+    "paper_type": "Article",
+    "title": "New Class of Thienopyridines: Design, Synthesis, Antimicrobial Activity and Molecular Docking",
+    "date": "November 2024",
+    "journal": "Journal of Molecular Structure",
+    "description": "Thienopyridines one of the most important classes in organic chemistry due to their outstanding medicinal and environmental applications. In this study, we report the synthesis of a series of novel thienopyridine derivatives bearing different aryl substituents on the fused thiophene moiety to showcase their inhibition behavior on different strains of bacteria and Fungai which can further be evidenced by molecular docking. The 4,6-dimethyl-2-thioxo-1,2-dihydropyridine-3-carbonitrile (3) was used as a starting material for the synthesis of the target compounds (4-15). The condensation of compound 3 with thiophene-2-carbaldehyde led to formation of thienylpyridine product 4, which subsequently reacted with ethyl chloroacetate or chloroacetaldehyde to furnish the thienopyridine derivatives (6,7). Moreover, the alkylation of compound 3 with various bromoalkyl ketones followed by Thorpe-Zeigler cyclization furnished the corresponding product (8-15). The structures of all synthesized compounds were confirmed using standard NMR spectroscopic technique which showed excellent agreement with the claimed structures. To assess their potential as therapeutic agents, we performed in vitro biological assays to evaluate their activity against selected bacterial strains and different fungal strains. Several of the studied derivatives exhibited significant antimicrobial activity, with compounds 9 and 13 emerging as the most potent which demonstrate the effect of halogen atoms F and Cl on the antimicrobial activity. To gain insight into the molecular interactions underlying the observed bioactivity, molecular docking studies were conducted against key biological targets. The docking results revealed favorable binding interactions, supporting the experimental findings, and suggesting a possible mechanism of action. These findings suggest that the new thienopyridine derivatives could serve as promising leads for the development of novel antimicrobial agents.",
+    "link": "https://doi.org/10.1016/j.molstruc.2024.140741",
+    "image_source": "https://ars.els-cdn.com/content/image/1-s2.0-S0022286024032496-gr4_lrg.jpg"
+  },
+  {
+    "paper_type": "Review Article",
+    "title": "Dietary Modulation of the Human Gut Microbiota: Molecular Mechanisms and Implications for Health and Disease",
+    "date": "In progress"
+  },
+  {
+    "paper_type": "Review Article",
+    "title": "Therapeutic agents against Aquaculture diseases",
+    "date": "In progress"
+  },
+  {
+    "paper_type": "Review Article",
+    "title": "Targeting Pathogenic bacteria in Gut microbiota Dysbiosis: Bacteriophage Therapy",
+    "date": "In progress"
+  },
+  {
+    "paper_type": "Review Article",
+    "title": "Updates in antimicrobial resistance (AMR): Molecular detection and therapeutic strategies",
+    "date": "In progress"
+  }
 ]
-
 
 
