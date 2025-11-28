@@ -2,7 +2,7 @@
     {
         "paper_type":"Review Article",
         "title": "The Impact of Fusobacterium nucleatum and the Genotypic Biomarker KRAS on Colorectal Cancer Pathogenesis",
-        "date": "July 2025",
+        "date": "July 2025", Ahmed Dewan, Ivan Tattoli, Maria Teresa Mascellino,
         "journal": "International Journal of Molecular Sciences",
         "description": "Fusobacterium nucleatum and activating mutations in the Kirsten rat sarcoma virus oncogene homolog (KRAS) are increasingly recognized as cooperative drivers of colorectal cancer (CRC). F. nucleatum promotes tumorigenesis via adhesion to epithelial cells, modulation of the immune microenvironment, and delivery of virulence factors, while KRAS mutations—present in 60% of CRC cases—amplify proliferative signaling and inflammatory pathways. Here, we review the molecular interplay by which F. nucleatum enhances KRAS-driven oncogenic cascades and, conversely, how KRAS mutations reshape the tumor niche to favor bacterial colonization. We further discuss the use of KRAS as a prognostic biomarker and explore promising non-antibiotic interventions—such as phage therapy, antimicrobial peptides, and targeted small-molecule inhibitors—aimed at selectively disrupting F. nucleatum colonization and virulence. This integrated perspective on microbial–genetic crosstalk offers novel insights for precision prevention and therapy in CRC.",
         "link": "https://doi.org/10.3390/ijms26146958",
@@ -37,3 +37,4 @@
     }
 
 ]
+
