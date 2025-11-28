@@ -1,26 +1,5 @@
 [   
-     {
-        "paper_type":"Review Article",
-        "title": "Dietary Modulation of the Human Gut Microbiota: Molecular Mechanisms and Implications for Health and Disease",
-        "date": "In progress",
-    },
-     
-     {
-        "paper_type":"Review Article",
-        "title": "Therapeutic agents against Aquaculture diseases",
-        "date": "In progress",
-    },
-     
-     {
-        "paper_type":"Review Article",
-        "title": "Targeting Pathogenic bacteria in Gut microbiota Dysbiosis: Bacteriophage Therapy",
-        "date": "In progress",
-    },
-     {
-        "paper_type":"Review Article",
-        "title": "Updates in antimicrobial resistance (AMR): Molecular detection and therapeutic strategies",
-        "date": "In progress",
-    },
+    
     {
         "paper_type":"Article",
         "title": "Synthesis of Antimicrobial Quinoline Derivatives Enabled by Synergistic Pd/Enamine Catalysis: Experimental and Computational Study",
@@ -56,9 +35,31 @@
         "description": "Thienopyridines one of the most important classes in organic chemistry due to their outstanding medicinal and environmental applications. In this study, we report the synthesis of a series of novel thienopyridine derivatives bearing different aryl substituents on the fused thiophene moiety to showcase their inhibition behavior on different strains of bacteria and Fungai which can further be evidenced by molecular docking. The 4,6-dimethyl-2-thioxo-1,2-dihydropyridine-3-carbonitrile (3) was used as a starting material for the synthesis of the target compounds (4-15). The condensation of compound 3 with thiophene-2-carbaldehyde led to formation of thienylpyridine product 4, which subsequently reacted with ethyl chloroacetate or chloroacetaldehyde to furnish the thienopyridine derivatives (6,7). Moreover, the alkylation of compound 3 with various bromoalkyl ketones followed by Thorpe-Zeigler cyclization furnished the corresponding product (8-15). The structures of all synthesized compounds were confirmed using standard NMR spectroscopic technique which showed excellent agreement with the claimed structures. To assess their potential as therapeutic agents, we performed in vitro biological assays to evaluate their activity against selected bacterial strains and different fungal strains. Several of the studied derivatives exhibited significant antimicrobial activity, with compounds 9 and 13 emerging as the most potent which demonstrate the effect of halogen atoms F and Cl on the antimicrobial activity. To gain insight into the molecular interactions underlying the observed bioactivity, molecular docking studies were conducted against key biological targets. The docking results revealed favorable binding interactions, supporting the experimental findings, and suggesting a possible mechanism of action. These findings suggest that the new thienopyridine derivatives could serve as promising leads for the development of novel antimicrobial agents.",
         "link": "https://doi.org/10.1016/j.molstruc.2024.140741",
         "image_soruce":"https://ars.els-cdn.com/content/image/1-s2.0-S0022286024032496-gr4_lrg.jpg"
-    }
-
+    },
+ {
+        "paper_type":"Review Article",
+        "title": "Dietary Modulation of the Human Gut Microbiota: Molecular Mechanisms and Implications for Health and Disease",
+        "date": "In progress",
+    },
+     
+     {
+        "paper_type":"Review Article",
+        "title": "Therapeutic agents against Aquaculture diseases",
+        "date": "In progress",
+    },
+     
+     {
+        "paper_type":"Review Article",
+        "title": "Targeting Pathogenic bacteria in Gut microbiota Dysbiosis: Bacteriophage Therapy",
+        "date": "In progress",
+    },
+     {
+        "paper_type":"Review Article",
+        "title": "Updates in antimicrobial resistance (AMR): Molecular detection and therapeutic strategies",
+        "date": "In progress",
+    },
 ]
+
 
 
 
